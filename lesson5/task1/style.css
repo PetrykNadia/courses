@@ -1,0 +1,38 @@
+
+div{
+    border: 1px;
+    font-size: 30px;
+    font-family: Arial;
+    text-align: right;
+    color: white;
+    background: #2B3E50;
+    border-collapse: collapse;
+}
+.container, .container1{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 6px;
+}
+.container1{
+    left: 156px;
+    bottom: 312px;
+    position: relative;
+}
+.container2, .container3, .container4{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 3px;
+    position: relative;
+}
+.container2{
+    left: 312px;
+    bottom: 624px;
+}
+.container3{
+    left: 418px;
+    bottom: 933px;
+}
+.container4{
+    left: 524px;
+    bottom: 1242px;
+}

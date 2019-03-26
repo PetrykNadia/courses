@@ -1,0 +1,33 @@
+body{
+    margin: auto;
+    padding: auto;
+    text-align: 160px;
+    background-color: #FFFF99;
+}
+label{ 
+    float:left; 
+}
+h2{
+    background-color:#FFCC00;
+    height: 50px;
+    margin: 0;
+}
+#content{
+    width: 100%;
+    float:right;
+}
+form div{
+    width: 100%;
+    margin-bottom: 10px;
+    left: 600px;
+}
+form label{
+    text-align: right;
+    position: relative;
+    top: 20px;
+    margin-right: 400px;
+    /* display: inline; */
+    left:350px;
+    font-size: 18px;
+    width: 240px;
+}

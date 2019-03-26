@@ -1,0 +1,33 @@
+body{
+    color: white;
+    text-align: right;
+    vertical-align: bottom;
+    font-size: 30px;
+    font-family: Arial;
+    border-collapse: collapse;
+}
+.item{
+    height: 150px;
+    width: 150px;
+    background: #2B3E50;
+    margin: 3px;
+    padding: 2px;
+}
+.container{
+    display: flex;
+    width: 320px;
+    flex-wrap: wrap;
+    float: left;
+}
+.item1{
+    height: 100px;
+    width: 100px;
+    background: #2B3E50;
+    margin: 2px;
+    padding: 1px;
+}
+.container1{
+    display: flex;
+    width: 330px;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,10 @@
+div{
+    width: 150px;
+    height: 300px;
+    margin: 0 auto;
+    border:1px solid #647BB9;
+    transform-origin: left;
+    transform: rotate(55deg);
+    box-shadow: 5px 5px 5px#B6B6B6;
+    background-image: linear-gradient(to bottom right, #382FC8, #FDCF37);
+}
